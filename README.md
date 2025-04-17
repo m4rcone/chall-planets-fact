@@ -1,4 +1,4 @@
-# Planets Fact - Challenger
+# Planets Fact - Challenge
 
 Este projeto é a solução para um  desafio do site [Frontend Mentor](https://www.frontendmentor.io/).
 
