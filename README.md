@@ -8,7 +8,7 @@ Este projeto é a solução para um  desafio do site [Frontend Mentor](https://w
 
 ### O desafio
 
-O desafio era construir um site sobre fatos dos planetas do sistema solar ficando o mais próximo possível do desing sugerido. Foi fornecido um arquivo `data.json` local para os dados dos planetas. 
+O desafio era construir um site sobre fatos dos planetas do sistema solar ficando o mais próximo possível do design sugerido. Foi fornecido um arquivo `data.json` local para os dados dos planetas. 
 
 ### Link
 
